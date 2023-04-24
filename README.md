@@ -1,5 +1,7 @@
 # react-fade-in
 
+## Fork of https://github.com/gkaemmer/react-fade-in to support react 18 (old project was likely abandoned)
+
 Dead-simple and opinionated component to fade in an element's children.
 
 ![React Fade In](/example/example.gif)

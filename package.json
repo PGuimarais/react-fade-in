@@ -1,6 +1,6 @@
 {
   "name": "@rcnoverwatcher/react-fade-in-react-18",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Super-easy fade-in animation for react children (personal fork)",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -9,8 +9,7 @@
     "type": "git"
   },
   "scripts": {
-    "build": "npm run build:clean && npm run build:lib",
-    "build:clean": "rmdir /s /q lib 2>nul",
+    "build": "npm run build:lib",
     "build:lib": "tsc",
     "prepublish": "SET NODE_ENV=production & npm run build",
     "dev:server": "EXAMPLE=true webpack-dev-server --port 3124 --hot --inline --content-base example/public",

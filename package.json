@@ -1,5 +1,5 @@
 {
-  "name": "@rcnoverwatcher/react-fade-in-react-18",
+  "name": "react-fade-in",
   "version": "2.0.5",
   "description": "Super-easy fade-in animation for react children (personal fork)",
   "main": "lib/index.js",

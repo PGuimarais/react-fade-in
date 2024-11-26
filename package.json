@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
-    "url": "git+ssh://git@github.com/RCNOverwatcher/react-fade-in.git",
+    "url": "git+ssh://git@github.com/PGuimarais/react-fade-in.git",
     "type": "git"
   },
   "scripts": {
